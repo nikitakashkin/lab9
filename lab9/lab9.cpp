@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+
+
+/*zadanie 1
 struct Wspolrzedne {
     int x;
     int y;
@@ -14,4 +17,7 @@ int main()
 
     cout << "punkt x: " << punkt.x << endl;
     cout << "punkt y: " << punkt.y << endl;
+
+    return 0;
 }
+*/
